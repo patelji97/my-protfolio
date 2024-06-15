@@ -31,21 +31,21 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Carrer Goals",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+      "Achieve proficiency in React/Angular/Vue . Build responsive, accessible UIs. Implement modern CSS techniques",
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Summary",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "Passionate Fronend Developer with knack For creating Intuitive and High Performing Web Applications",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "Projects",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "I created the projets is 1). Background chnager using react js. 2) Password genrator using ract js. 3) Nike shoes clone using html css javascript",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
@@ -79,6 +79,12 @@ const Portfolio = () => {
           ))}
         </div>
       </div>
+    </section>
+  );
+};
+
+export default Portfolio;
+
     </section>
   );
 };
