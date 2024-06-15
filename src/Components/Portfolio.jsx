@@ -84,9 +84,3 @@ const Portfolio = () => {
 };
 
 export default Portfolio;
-
-    </section>
-  );
-};
-
-export default Portfolio;
